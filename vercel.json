@@ -1,6 +1,6 @@
 {
     "build": {
-      "use": "@nestjs/cli"
+      "buildCommand": "nest build"
     }
   }
   
