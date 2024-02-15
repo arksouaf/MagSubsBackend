@@ -1,6 +1,4 @@
 {
-    "build": {
       "buildCommand": "nest build"
-    }
-  }
+}
   
