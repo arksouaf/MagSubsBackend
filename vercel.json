@@ -1,6 +1,5 @@
 {
     "build": {
-      "src": "src/main.ts",
       "use": "@nestjs/cli"
     }
   }
