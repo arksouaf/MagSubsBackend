@@ -1,4 +1,8 @@
 {
-      "buildCommand": "nest build"
+      "buildCommand": "nest build",
+      "build": {
+        "src": "dist",
+        "use": "@nestjs/cli"
+      }
 }
   
